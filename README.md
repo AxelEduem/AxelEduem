@@ -42,7 +42,7 @@ Trabajo principalmente en desarrollo web, aplicaciones móviles, APIs, bases de 
 
 <div align="center">
 
-> 💡 **Las ideas son el comienzo. La tecnología es el medio. Crear soluciones es el objetivo.**
+ 💡 **Las ideas son el comienzo. La tecnología es el medio. Crear soluciones es el objetivo.**
 
 </div>
 
