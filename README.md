@@ -30,7 +30,7 @@ Soy **Axel Eduardo Escribano Meza**, Ingeniero de Sistemas y **Full Stack Develo
 
 Me apasiona transformar ideas y necesidades en soluciones de software **funcionales, modernas y escalables**.
 
-Trabajo principalmente en desarrollo web, backend, aplicaciones móviles, APIs, bases de datos y automatización, combinando diferentes tecnologías para construir soluciones completas.
+Trabajo principalmente en desarrollo web, aplicaciones móviles, APIs, bases de datos y automatización, combinando diferentes tecnologías para construir soluciones completas.
 
 <div align="center">
 
