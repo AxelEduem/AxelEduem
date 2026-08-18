@@ -4,121 +4,152 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00BFFF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://axeledu.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AxelEduem)
+<a href="https://axeledu.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00BFFF?style=for-the-badge&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/AxelEduem">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00BFFF" width="100%">
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
 Soy **Axel Eduardo Escribano Meza**, Ingeniero de Sistemas y **Full Stack Developer**.
 
 Me apasiona transformar ideas y necesidades en soluciones de software **funcionales, modernas y escalables**.
 
-Trabajo en desarrollo web, backend, aplicaciones móviles, APIs, bases de datos y automatización, combinando diferentes tecnologías para construir soluciones completas.
+Trabajo principalmente en desarrollo web, backend, aplicaciones móviles, APIs, bases de datos y automatización, combinando diferentes tecnologías para construir soluciones completas.
 
-> 💡 *Las ideas son el comienzo. La tecnología es el medio. Crear soluciones es el objetivo.*
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=45&lines=Construyendo+soluciones+con+tecnologia;Desarrollando+software+moderno;Full+Stack+Developer;Backend+%7C+Frontend+%7C+Mobile;AI+%26+Automation;Siempre+aprendiendo+y+construyendo" alt="Typing SVG">
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 💡 **Las ideas son el comienzo. La tecnología es el medio. Crear soluciones es el objetivo.**
+
+</div>
 
 ---
 
-## ⚡ Mi Stack Tecnológico
+## ⚡ Mi Stack
 
-### 💻 Lenguajes de programación
+### 💻 Lenguajes
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,dart" alt="Lenguajes de programación">
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,dart&perline=6" alt="Java JavaScript TypeScript PHP Python Dart">
+
+</div>
 
 ### 🎨 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,vue" alt="Frontend">
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,react,vue&perline=4" alt="HTML CSS React Vue">
+
+</div>
 
 ### ⚙️ Backend & Frameworks
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,django" alt="Backend y frameworks">
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,django&perline=4" alt="Node.js Spring Boot Laravel Django">
 
-### 📱 Desarrollo Mobile
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter">
-</p>
+### 📱 Mobile
 
----
+<div align="center">
 
-### 🗄️ Bases de Datos
+<img src="https://skillicons.dev/icons?i=flutter&perline=1" alt="Flutter">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Bases de datos">
-</p>
+</div>
 
-<p align="left">
+### 🗄️ Bases de datos
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=3" alt="MySQL PostgreSQL Redis">
 
----
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+
+</div>
 
 ### 🛠️ DevOps & Herramientas
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,docker,linux,github,nginx,postman" alt="DevOps y herramientas">
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=git,docker,linux,github,nginx,postman&perline=6" alt="Git Docker Linux GitHub Nginx Postman">
+
+</div>
 
 ### 🔐 APIs & Autenticación
 
-<p align="center">
+<div align="center">
 
-![REST API](https://img.shields.io/badge/REST_API-00BFFF?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+<img src="https://img.shields.io/badge/REST%20API-00BFFF?style=for-the-badge&logoColor=white" alt="REST API">
+<img src="https://img.shields.io/badge/JWT-7C3AED?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
 
-</p>
+</div>
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED" width="100%">
+
+</div>
+
 ## 🚀 Áreas de especialización
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 💻 Desarrollo Full Stack
+### 💻 Full Stack
 
-Construcción de aplicaciones web modernas, funcionales y escalables.
+Desarrollo de aplicaciones web modernas, funcionales y escalables.
 
 </td>
-<td width="50%">
+
+<td align="center" width="50%">
 
 ### ⚙️ Backend
 
-Desarrollo de APIs, servicios, lógica de negocio y arquitecturas backend.
+APIs, servicios, lógica de negocio y arquitecturas backend.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 📱 Desarrollo Mobile
+### 📱 Mobile
 
-Desarrollo de aplicaciones multiplataforma utilizando Flutter.
+Aplicaciones multiplataforma utilizando Flutter.
 
 </td>
-<td width="50%">
+
+<td align="center" width="50%">
 
 ### 🤖 AI & Automation
 
@@ -128,18 +159,19 @@ Integración de servicios inteligentes y automatización de procesos.
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 
-Diseño, consultas, integración y gestión de información.
+Diseño, integración y gestión de bases de datos.
 
 </td>
-<td width="50%">
 
-### 🔐 APIs & Seguridad
+<td align="center" width="50%">
 
-Desarrollo e integración de APIs REST, autenticación y autorización mediante JWT.
+### 🔐 APIs & Security
+
+APIs REST, autenticación y autorización mediante JWT.
 
 </td>
 </tr>
@@ -147,38 +179,34 @@ Desarrollo e integración de APIs REST, autenticación y autorización mediante 
 
 ---
 
-## 🧰 Tecnologías
+## 🧠 Tecnologías que utilizo
 
 <div align="center">
 
-|      Categoría     | Tecnologías                                          |
-| :----------------: | :--------------------------------------------------- |
-|    **Lenguajes**   | Java · JavaScript · TypeScript · PHP · Python · Dart |
-|    **Frontend**    | HTML5 · CSS3 · React · Vue.js                        |
-|     **Backend**    | Node.js · Spring Boot · Laravel · Django             |
-|     **Mobile**     | Flutter                                              |
-| **Bases de datos** | MySQL · PostgreSQL · SQL Server · Redis              |
-|     **DevOps**     | Git · Docker · Linux · Nginx                         |
-|  **Herramientas**  | GitHub · Postman                                     |
-|      **APIs**      | REST API · JWT                                       |
+```text
+Frontend        → React · Vue · HTML5 · CSS3
+Backend         → Node.js · Spring Boot · Django · Laravel
+Mobile          → Flutter
+Languages       → Java · JavaScript · TypeScript · Python · PHP · Dart
+Databases       → MySQL · PostgreSQL · SQL Server · Redis
+DevOps          → Git · Docker · Linux · Nginx
+Tools           → GitHub · Postman
+APIs            → REST API · JWT
+```
 
 </div>
 
 ---
 
-## 💡 Filosofía
+## 💡 Mi filosofía
 
 <div align="center">
 
-> **"Las ideas son el comienzo. La tecnología es el medio. Crear soluciones es el objetivo."**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=BUILD%20%7C%20LEARN%20%7C%20EVOLVE&fontSize=28&fontColor=FFFFFF&color=0D1117&stroke=00BFFF&strokeWidth=1&animation=twinkling" width="100%" alt="Build Learn Evolve">
 
-<br>
+<br><br>
 
-**💻 Construir**
-
-**⚡ Aprender**
-
-**🚀 Evolucionar**
+**💻 Construir**    **⚡ Aprender**    **🚀 Evolucionar**
 
 </div>
 
@@ -188,20 +216,34 @@ Desarrollo e integración de APIs REST, autenticación y autorización mediante 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_VISITA_MI_PORTAFOLIO-00BFFF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://axeledu.netlify.app/)
+<a href="https://axeledu.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_VISITA_MI_PORTAFOLIO-00BFFF?style=for-the-badge&logoColor=white" alt="Portfolio">
+</a>
 
-[![GitHub](https://img.shields.io/badge/💻_GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AxelEduem)
+ 
+
+<a href="https://github.com/AxelEduem">
+<img src="https://img.shields.io/badge/💻_GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 🚀 Siempre aprendiendo. Siempre construyendo.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&height=35&lines=Siempre+aprendiendo.;Siempre+construyendo.;Siempre+buscando+una+mejor+solucion." alt="Animated closing text">
+
+<br><br>
+
+### 🚀 Gracias por visitar mi perfil.
+
+</div>
 
 <br>
 
-**Gracias por visitar mi perfil.**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117&animation=twinkling" width="100%" alt="Footer">
 
 </div>
